@@ -1,3 +1,4 @@
+<?php /* fonksiyon içerisinde diğer cssler de aynı mantıkla dahil edilebiliyor */ ?> 
 <?php   
 
 function theme_css(){
